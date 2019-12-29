@@ -11,7 +11,7 @@ public class Chrome {
 	driver.get("http://www.facebook.com");
 	driver.manage().window().maximize();
 	
-	
+	//New comment added
 	
 
 	}
