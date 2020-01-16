@@ -21,10 +21,11 @@ public class Functions {
 	
 		if(a.length()>b.length());
 		System.out.println("Pass");
-		
+		System.out.println("Fail");
+		System.out.println("updated");
 		
 			System.out.println("Fail");
-		
+		System.out.println("updated");
 		
 	}
 
